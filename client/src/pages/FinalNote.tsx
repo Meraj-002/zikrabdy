@@ -94,7 +94,7 @@ I’m really lucky to have you ❤️`;
               className="mt-10 flex justify-center"
             >
               <img
-                src="https://res.cloudinary.com/dfhiyvm2x/image/upload/v1777041343/IMG_20260424_200208_303_v9xbhq.png"   // 👉 PUT YOUR IMAGE HERE
+                src="https://res.cloudinary.com/dfhiyvm2x/image/upload/v1777050225/WhatsApp_Image_2026-04-24_at_10.33.30_PM_xrntiz.jpg"   // 👉 PUT YOUR IMAGE HERE
                 alt="gift"
                 className="rounded-xl shadow-lg max-w-[280px] sm:max-w-sm"
               />
